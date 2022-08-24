@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SUN Fengfei</title>
+    <link>https://sunfengfeily.github.io/</link>
+      <atom:link href="https://sunfengfeily.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>SUN Fengfei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2005-2022 all right reserved </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sunfengfeily.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>SUN Fengfei</title>
+      <link>https://sunfengfeily.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://sunfengfeily.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Endowment Structure, Threshold Level, and Belief Formation</title>
+      <link>https://sunfengfeily.github.io/publication/public-goods-belief-formation/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/publication/public-goods-belief-formation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed a laboratory experiment with the framework of threshold public goods provision&lt;/li&gt;
+&lt;li&gt;Analyzed the interaction effect of endowment structure and threshold level to contribution level of public good pool.&lt;/li&gt;
+&lt;li&gt;Discussed intermediary effect about belief and mechanism of belief formation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gender Ratio, Asset Allocation, and Elderly Retirement Arrangement</title>
+      <link>https://sunfengfeily.github.io/publication/gender-ratio-aging-choice/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/publication/gender-ratio-aging-choice/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Using CFPS database to explore relationship between elderly retirement arrangement and gender ratio of their children.&lt;/li&gt;
+&lt;li&gt;Using national census data to construct Iv for gender ratio variable.&lt;/li&gt;
+&lt;li&gt;Preliminary analysis suggests that with higher gender ratio of their children, people of retirement age tend to continue to work instead of retire. Also, families with higher gender ratio have significantly higher house loan than those with lower gender ratio of children.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pension Cost, Income Structure and Expenditure of Children&#39;s Pension Service</title>
+      <link>https://sunfengfeily.github.io/publication/threshold-public-goods/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/publication/threshold-public-goods/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed a laboratory experiment with the framework of threshold public goods to simulate a strategy interaction scenario between children within a family. Investigated the impacts of threshold level and endowment structure on the financial assistance provided by children to parents.&lt;/li&gt;
+&lt;li&gt;Discussed interaction effect between the elderly care cost and the income structure of children. Further explored underlying mechanism of social norms in the relationship between intergenerational support and social support.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Peers Matter: How Friendship Network Affects Students&#39; Academic Performance</title>
+      <link>https://sunfengfeily.github.io/publication/why-peers-matter/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/publication/why-peers-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Main-Organizer of Multi-Universities Academic Seminar</title>
+      <link>https://sunfengfeily.github.io/post/biweekly-semi/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/post/biweekly-semi/</guid>
+      <description>&lt;p&gt;In my senior year of college, my professor initiated an economic seminar involving different universities professors and students. Breaking the limits of distance of various universities, we chose to run seminars online.&lt;/p&gt;
+&lt;p&gt;Generally, we have &lt;strong&gt;3&lt;/strong&gt; types of seminars:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Working paper workshop&lt;/li&gt;
+&lt;li&gt;Lectures on specific topics&lt;/li&gt;
+&lt;li&gt;Paper study &amp;amp; review talking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As for research fields, we have topics about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behavioral Economics&lt;/li&gt;
+&lt;li&gt;Experimental Economics&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Labor Economics&lt;/li&gt;
+&lt;li&gt;Macroeconomic Development&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The seminar was called  &lt;em&gt;Taichi&lt;/em&gt;  Biweekly Seminar. &lt;em&gt;Taichi&lt;/em&gt;  is a kind of traditional Chinese martial art, containing Chinese philosophical principles of inclusion and further development. Similarly, we aimed to introduce cutting-edge economic knowledge to groups interested in Economics, gather complement of advantages of different methods, and then help to tell Chinese stories better.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;./topic-in.png&#34; alt=&#34;png&#34;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;As the &lt;strong&gt;main organizer&lt;/strong&gt; of the seminar, my responsibilities involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organize and schedule reporters for each seminar.&lt;/li&gt;
+&lt;li&gt;Coordinate and assign relative professors to comment.&lt;/li&gt;
+&lt;li&gt;Make, modify, and distribute posters for publicity.&lt;/li&gt;
+&lt;li&gt;Co-host and record seminars for further achiving and summary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By now, I have organized and coordinated &lt;strong&gt;100+&lt;/strong&gt; participants from &lt;strong&gt;15+&lt;/strong&gt; universities to hold &lt;strong&gt;50&lt;/strong&gt; seminars.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-Founder of Economic Knowledge Sharing Platform</title>
+      <link>https://sunfengfeily.github.io/post/beyond-econ/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/post/beyond-econ/</guid>
+      <description>&lt;p&gt;In my sophomore year, my friend and I found that there were few official account in Wechat targeted for sharing economic knowledge, so with the guidance of 
+&lt;a href=&#34;http://econ.ruc.edu.cn/szdw/jsml/ayjspx/jjxxfjjxjys/zya/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Zhou&lt;/a&gt;, 
+we established an online economic papers sharing platform 
+&lt;a href=&#34;https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;amp;__biz=Mzg5MzE1MTY3Mg==&amp;amp;scene=117#wechat_redirect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Beyond Economics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We not only wanted to found an account to spread specific academic knowledge to the public, but also build the bridge of information connecting people who are devoted to academic fields of economics.&lt;/p&gt;
+&lt;p&gt;Generally, our pushes(tweets) include fields of  both microeconomics and macroeconomics and involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Summary of classic dissertations&lt;/li&gt;
+&lt;li&gt;Summative translation articles for frontier papers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With efforts, we have accumulated over &lt;strong&gt;3,500&lt;/strong&gt; followers and expanded into an academic group with over 50 article writing contributors. I am glad to make contributions to better access to academic resourses and higher popularity of academic discussion among university students.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./featured.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;figcaption&gt;Cover of Wechat Official Account&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-Founder and Main Leader of Volunteer Service Group</title>
+      <link>https://sunfengfeily.github.io/post/dreamer/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/post/dreamer/</guid>
+      <description>&lt;p&gt;As a girl living in a mountain village, I never go outside of my hometown until I entered University. Once I lived in Beijing, I felt frustrated about my narrow horizon and low comprehensive abilities. There is a too wide information gap between metropolises and small towns. Coincidentally, some friends also encountered similar puzzles in university. We were from top universities of China (including Renmin univ., Tsinghua Univ., Fudan Univ., Zhejiang Univ.,Tianjin Univ., and Harbin Institute of Technology), but we were suffering from lack of confidence in our campus life.&lt;br&gt;
+
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./7-clouds.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;figcaption&gt;Road and Mountains Near My Home&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+
+This experience got me thinking of high school students in my hometown, who lack opportunities to see the world outside of the mountains. They may experience similar dilemmas in their future, maybe we can help them pursue better education using our information, ability, and experiences. So, after preparation, we together founded &lt;strong&gt;The Dreamer&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./1-found.jpg&#34; alt=&#34;Memory of Foundation&#34;&gt;
+    &lt;figcaption&gt;Memento Photo of Organization Foundation, 2018&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Dreamer&lt;/strong&gt; is a non-profit organization aiming to support education development in my hometown.We recruited college student volunteers, and then taught high school students in the hometown. By now, we have implemented &lt;strong&gt;8&lt;/strong&gt; sessions of supporting teaching activities during vacations. &lt;strong&gt;300+&lt;/strong&gt; volunteers and &lt;strong&gt;800+&lt;/strong&gt; students participated accumulatively.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./3-group.jpg&#34; alt=&#34;Group&#34;&gt;
+    &lt;figcaption&gt;Fourth Session of Dreamer, 2019&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+&lt;p&gt;As the main leader of &lt;strong&gt;5&lt;/strong&gt; sessions of activities, I spent almost all my summer vocations and winter vocations organizing and participating volunteering activities.Although busy and full of arrangements, I felt happy and content every time I saw faces of students in the classroom. 
+
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./2-students.jpg&#34; alt=&#34;Students in classroom&#34;&gt;
+    &lt;figcaption&gt;Glimpse of Students in a Lecture, 2020&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Generally, I arranged &lt;strong&gt;4&lt;/strong&gt; kinds of volunteering activities to students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Courses teaching &lt;strong&gt;9 disciplines&lt;/strong&gt; from freshman year to senior year in high school.&lt;/li&gt;
+&lt;li&gt;Lectures on &lt;strong&gt;expansion of horizons&lt;/strong&gt;,including introduction of cutting-edge technology, computer operation skills, appreciation of poetry, and so on.&lt;/li&gt;
+&lt;li&gt;Lectures on &lt;strong&gt;preparation experiences&lt;/strong&gt; of College Entrance Examination and &lt;strong&gt;introduction&lt;/strong&gt; of main majors and university life.&lt;/li&gt;
+&lt;li&gt;Provision of &lt;strong&gt;self-learning guidance and supervision&lt;/strong&gt; for students who don&amp;rsquo;t choose relative courses. 
+
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./4-lecture.jpg&#34; alt=&#34;Lecture&#34;&gt;
+    &lt;figcaption&gt;Speech on Opening Ceremony of Third Session of Dreamer, 2019&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To provide activities efficiently, we have &lt;strong&gt;4&lt;/strong&gt; main groups:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Group of Publicity, responsible for managing social media online,  distributing posters offline, and recruiting students.&lt;/li&gt;
+&lt;li&gt;Group of Teaching Service, responsible for recruiting teaching volunteers, coordinating schedule and content of teaching in different grades, and arranging self-learning issues.&lt;/li&gt;
+&lt;li&gt;Group of Lecture Service, responsible for arranging schedule, connecting lecturers, and preparing &amp;amp; summarizing the process of lectures.&lt;/li&gt;
+&lt;li&gt;Group of Logistics Support, responsible for assisting matters in other groups when necessary. 
+
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./5-structure.png&#34; alt=&#34;Structure&#34;&gt;
+    &lt;figcaption&gt;Basic Structure of Organization Management&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As the main leader, I am responsible for coordinating volunteers in these groups and making important decisions including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Seeking &lt;strong&gt;sponsoring and assistance&lt;/strong&gt; from local government and high schools for necessary subsides and sites support.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arranging jobs&lt;/strong&gt; for different groups.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Revising&lt;/strong&gt; push content published in Wechat Official Account and posters for publicity.&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With our efforts, The organization was awarded &lt;strong&gt;the Best Volunteer Group&lt;/strong&gt; by local government in 2019. More importantly, we have received countless thanks from students and their parents for contributions we make for high school education development. More and more students we taught volunteer to be a member of Dreamer when they enter university. I am so proud of making some contributions for a better future of my hometown.&lt;br&gt;
+
+
+  &lt;figure&gt;
+    &lt;img src=&#34;./6-thanks.jpg&#34; alt=&#34;Thanks&#34;&gt;
+    &lt;figcaption&gt;Thanks Notes from Students, 2020&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
