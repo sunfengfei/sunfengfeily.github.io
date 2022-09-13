@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Dohmen | SUN Fengfei</title>
+    <link>https://sunfengfeily.github.io/author/thomas-dohmen/</link>
+      <atom:link href="https://sunfengfeily.github.io/author/thomas-dohmen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Dohmen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2005-2022 all right reserved </copyright>
+    <image>
+      <url>https://sunfengfeily.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Dohmen</title>
+      <link>https://sunfengfeily.github.io/author/thomas-dohmen/</link>
+    </image>
+    
+    <item>
+      <title>Performance Pay and Multideimensional Sorting</title>
+      <link>https://sunfengfeily.github.io/talk/performance-pay-and-multideimensional-sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/performance-pay-and-multideimensional-sorting/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Performance%20Pay%20and%20Multideimensional%20Sorting/1.pdf&#34; target=&#34;_blank&#34;&gt;Initial Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

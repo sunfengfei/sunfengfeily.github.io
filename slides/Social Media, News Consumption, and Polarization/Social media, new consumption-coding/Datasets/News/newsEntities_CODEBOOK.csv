@@ -1,0 +1,4 @@
+"name","data_type","description"
+"id","character","Id of the post using the following format: pageID_postID"
+"entity_type","character","Type of entity appearing in the post (e.g., PERSON)"
+"entity","character","Entity appearing in the post (e.g., Trump)"

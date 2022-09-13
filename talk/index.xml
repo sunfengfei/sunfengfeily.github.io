@@ -1,36 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | SUN Fengfei</title>
+    <title>Seminar Presentation | SUN Fengfei</title>
     <link>https://sunfengfeily.github.io/talk/</link>
       <atom:link href="https://sunfengfeily.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2005-2022 all right reserved </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Seminar Presentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2005-2022 all right reserved </copyright><lastBuildDate>Sun, 11 Sep 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sunfengfeily.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Seminar Presentation</title>
       <link>https://sunfengfeily.github.io/talk/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://sunfengfeily.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://sunfengfeily.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+      <title>Belief Elicitation and Behavioral Incentive Compatibility</title>
+      <link>https://sunfengfeily.github.io/talk/belief-elicitation-and-behavioral-incentive-compatibility/</link>
+      <pubDate>Sun, 11 Sep 2022 10:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/belief-elicitation-and-behavioral-incentive-compatibility/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Belief%20Elicitation%20and%20Behavioral%20Incentive%20Compatibility/1.pdf&#34;&gt;Initial Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Belief%20Elicitation%20and%20Behavioral%20Incentive%20Compatibility/2.pdf&#34;&gt;Appendix Materials&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Media, News Consumption, and Polarization</title>
+      <link>https://sunfengfeily.github.io/talk/social-media-news-consumption-and-polarization/</link>
+      <pubDate>Sun, 22 May 2022 10:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/social-media-news-consumption-and-polarization/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Social%20Media,%20News%20Consumption,%20and%20Polarization/1.pdf&#34;&gt;Initial Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Social%20Media,%20News%20Consumption,%20and%20Polarization/2.pdf&#34;&gt;Appendix Materials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Competition and Cheating: Investigating the Role of Moral Awareness, Moral Identity, and Moral Elevation</title>
+      <link>https://sunfengfeily.github.io/talk/competition-and-cheating/</link>
+      <pubDate>Sun, 10 Oct 2021 10:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/competition-and-cheating/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Competition%20and%20Cheating/1.pdf&#34;&gt;Initial Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can Contracts Signal Social Norms?--Experimental Evidence</title>
+      <link>https://sunfengfeily.github.io/talk/can-contracts-signal-social-norms/</link>
+      <pubDate>Sun, 21 Feb 2021 10:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/can-contracts-signal-social-norms/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Can%20Contracts%20Signal%20Social%20Norms/1.pdf&#34; target=&#34;_blank&#34;&gt;Initial Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Pay and Multideimensional Sorting</title>
+      <link>https://sunfengfeily.github.io/talk/performance-pay-and-multideimensional-sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sunfengfeily.github.io/talk/performance-pay-and-multideimensional-sorting/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sunfengfeily.github.io/slides/Performance%20Pay%20and%20Multideimensional%20Sorting/1.pdf&#34; target=&#34;_blank&#34;&gt;Initial Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

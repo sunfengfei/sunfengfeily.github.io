@@ -1,0 +1,6 @@
+"name","data_type","description"
+"pageID","character","Identifier of outlet's Facebook page"
+"last_updatePOSIX","POSIXct","When was the post last updated by the page"
+"message","character","The message written in the post"
+"description","character","A description of a link in the post (appears beneath the caption)"
+"postID","character","Unique post identifier (key)"

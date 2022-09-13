@@ -1,0 +1,7 @@
+"name","data_type","description"
+"age","numeric","Mean age"
+"female","numeric","Share of females"
+"republican","numeric","In politics TODAY, do you consider yourself a Republican, Democrat, or independent? -> share Republican"
+"democrat","numeric","In politics TODAY, do you consider yourself a Republican, Democrat, or independent? -> share  Democrat"
+"independent","numeric","In politics TODAY, do you consider yourself a Republican, Democrat, or independent? -> share independent "
+"echoChamber","numeric","Mean: Thinking about the opinions you see people post about government and politics on Facebook, how often are they in line with your own views?"

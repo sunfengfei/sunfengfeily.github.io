@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sunfengfeily.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://sunfengfeily.github.io/talk/belief-elicitation-and-behavioral-incentive-compatibility/</loc>
+    <lastmod>2022-09-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/incentive-mechanisms/</loc>
+    <lastmod>2022-09-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/lab-experiment/</loc>
+    <lastmod>2022-09-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunfengfeily.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunfengfeily.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tags/</loc>
+    <lastmod>2022-09-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunfengfeily.github.io/publication-type/0/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
@@ -62,11 +71,32 @@
     <loc>https://sunfengfeily.github.io/author/sun-fengfei/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sunfengfeily.github.io/tags/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sunfengfeily.github.io/tag/threshold-public-goods-provision/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/field-experiment/</loc>
+    <lastmod>2022-05-22T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/political-economics/</loc>
+    <lastmod>2022-05-22T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/roee-levy/</loc>
+    <lastmod>2022-05-22T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/talk/social-media-news-consumption-and-polarization/</loc>
+    <lastmod>2022-05-22T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/chandra-shekhar-pathki/</loc>
+    <lastmod>2021-10-10T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/talk/competition-and-cheating/</loc>
+    <lastmod>2021-10-10T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/competition-mechanisms/</loc>
+    <lastmod>2021-10-10T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/vadera/</loc>
+    <lastmod>2021-10-10T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunfengfeily.github.io/tag/endowment-structure/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
@@ -82,6 +112,18 @@
   </url><url>
     <loc>https://sunfengfeily.github.io/tag/threshold-level/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/anastasia-danilov/</loc>
+    <lastmod>2021-02-21T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/talk/can-contracts-signal-social-norms/</loc>
+    <lastmod>2021-02-21T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/dirk-sliwka/</loc>
+    <lastmod>2021-02-21T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/signal-information/</loc>
+    <lastmod>2021-02-21T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunfengfeily.github.io/tag/individual-performance/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
@@ -110,8 +152,20 @@
     <loc>https://sunfengfeily.github.io/post/dreamer/</loc>
     <lastmod>2018-02-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sunfengfeily.github.io/author/abhijeet-k./</loc>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/armin-falk/</loc>
+  </url><url>
     <loc>https://sunfengfeily.github.io/categories/</loc>
   </url><url>
+    <loc>https://sunfengfeily.github.io/author/david-danz-et-al./</loc>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/tag/incentive-schemes/</loc>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/talk/performance-pay-and-multideimensional-sorting/</loc>
+  </url><url>
     <loc>https://sunfengfeily.github.io/author/sun-fengfei/</loc>
+  </url><url>
+    <loc>https://sunfengfeily.github.io/author/thomas-dohmen/</loc>
   </url>
 </urlset>

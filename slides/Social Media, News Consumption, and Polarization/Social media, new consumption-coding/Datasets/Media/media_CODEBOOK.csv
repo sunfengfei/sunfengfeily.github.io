@@ -1,0 +1,7 @@
+"name","data_type","description"
+"outlet","character","The outlet's name"
+"group","character","Is outlet liberal or conservative"
+"pageID","character","Outlet's Facebook page (key)"
+"domain","character","The outlet's domain"
+"backup","numeric","Is this an alternative or primary outlet offered (0 for primary outlet)"
+"surveyName","character","Outlet full name for survey"

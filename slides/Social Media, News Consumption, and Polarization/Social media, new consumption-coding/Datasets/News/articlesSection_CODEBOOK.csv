@@ -1,0 +1,4 @@
+"name","data_type","description"
+"url","character","Article URL (key)"
+"outlet","character","Article outlet"
+"articleSection","character","Article section"
